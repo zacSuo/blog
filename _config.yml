@@ -78,6 +78,5 @@ theme: yelee
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:flyoob/flyoob.github.io.git
-  git@github.com:zacSuo/blog.git
+  repo: git@github.com:zacSuo/blog.git
   branch: master
